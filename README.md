@@ -11,6 +11,7 @@ Notes:
 14/02: 
 - Creation of repository
 - File 101366379_gb.txt added in Fabrizio personal branch.
+- File 101366379_devops.txt added in Fabrizio personal branch.
 
 ### I miss understood the Assignment Details:
 ### We all need to create 3 different files
