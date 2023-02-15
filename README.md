@@ -2,6 +2,7 @@
 
 1) Fabrizio Mignogna #101366379:
     - 101366379_gb.txt
+    - 101366379_devops.txt
 
 2) 
 
