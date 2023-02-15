@@ -10,4 +10,5 @@ Recommended textbooks and other teaching aids:
     2. Docker Up Running Shipping Reliable Containers in Production (Sean P. Kane Karl
 Matthias)
     3. DevOps Automation Cookbook, By Michael Duffy, PACKT Publishing
-    4. DevOps for Networking, By Steven Armstrong, PACKT Publishing
+    4. DevOps for Networking, By Steven Armstrong, PACKT Publishing.
+This class is schedule for days Monday (Lecture) and Wednesday (Lab).
