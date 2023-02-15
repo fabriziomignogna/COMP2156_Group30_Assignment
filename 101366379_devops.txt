@@ -1,0 +1,16 @@
+Fabrizio Mignogna #101366379
+Description: This file will contain information about COMP2156 DevOps course.
+
+Course2156 name is: DevOps For System Administration.
+Professor's name: Pritesh Patel
+This course is for students in the programs T141 and T147.
+Recommended textbooks and other teaching aids:
+    1. DevOps A Software Architect’s Perspective (Bass, Len Weber, Ingo Zhu, Liming
+[Bass etc.)
+    2. Docker Up Running Shipping Reliable Containers in Production (Sean P. Kane Karl
+Matthias)
+    3. DevOps Automation Cookbook, By Michael Duffy, PACKT Publishing
+    4. DevOps for Networking, By Steven Armstrong, PACKT Publishing.
+This class is schedule for days Monday from 06pm to 07pm for lecture class, and Wednesday from 06pm to 08pm for lab class.
+We are currently working on a group assignment worth 12%.
+Honestly, the course that I am more interested in learning about during this semester.
