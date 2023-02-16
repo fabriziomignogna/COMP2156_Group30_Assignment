@@ -23,4 +23,5 @@ File 101366379_sdlc.txt added.
 - No changes were added since I merged.
 - I added information to 101366379_sdlc.txt.
 - All my files count with already 10 commits.
+- Screenshot of Bash commands added.
 - I am margin my branch with Main thus you can pull from Main and start working.
