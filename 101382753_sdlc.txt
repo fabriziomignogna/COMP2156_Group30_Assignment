@@ -4,3 +4,5 @@ DevOps help IT teams and companies speed up the release of products, minimize th
 
 DevOps engineers reduce that complexity, closing the gap between actions needed to quickly change an application, and the tasks that maintain its reliability.
 Development teams and IT operations teams can have different skills and different goals. Developers want to introduce new features to an application, while operations teams want to preserve the stability of an application once it is released. 
+
+Some organizations may hire professionals to "perform DevOps" within their workflows, but because successful DevOps adoption depends on changes to culture and process, this may just deepen the disconnect between developers and operational teams.
