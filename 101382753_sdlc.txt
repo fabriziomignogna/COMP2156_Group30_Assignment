@@ -18,3 +18,6 @@ Infrastructure Orchestration
 Monitoring and analytics
 Testing and Cloud Quality tools
 Network protocols
+
+
+Corporations have a huge interest in DevOps, and it looks like the trend will remain the same in the foreseeable future. There is usually plenty of demand for jobs in the market, along with a drop in the average income. This makes an aspiring DevOps Engineer seek a vast range of skills.
