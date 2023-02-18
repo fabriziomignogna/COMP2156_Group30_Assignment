@@ -6,3 +6,15 @@ DevOps engineers reduce that complexity, closing the gap between actions needed 
 Development teams and IT operations teams can have different skills and different goals. Developers want to introduce new features to an application, while operations teams want to preserve the stability of an application once it is released. 
 
 Some organizations may hire professionals to "perform DevOps" within their workflows, but because successful DevOps adoption depends on changes to culture and process, this may just deepen the disconnect between developers and operational teams.
+
+DevOps engineers need to know how to use the following types of tools:
+
+Version control
+Continuous Integration servers
+Configuration management
+Deployment automation
+Containers
+Infrastructure Orchestration
+Monitoring and analytics
+Testing and Cloud Quality tools
+Network protocols
