@@ -1,0 +1,3 @@
+﻿A DevOps engineer is a trending and in-demand IT specialty that is at the intersection between development, testing, administration, and management. It arose as a result of the development of a methodology of the same name, which is aimed at the continuous execution and automation of key stages of software development. 
+
+DevOps help IT teams and companies speed up the release of products, minimize the number of errors and shortcomings, recover systems faster after failures, automate routine processes and tasks, as well as improve the quality of user support and service. DevOps is considered one of the most valuable and highly paid professions on the market.
