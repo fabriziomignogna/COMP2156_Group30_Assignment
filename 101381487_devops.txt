@@ -3,4 +3,5 @@ Description: This file will contain information about COMP2156 DevOps course.
 This course is for students in the programs T141 and T147.
 Course2156 name is: DevOps For System Administration.
 Professor's name: Pritesh Patel
-The class is schedule for days Monday for lecture class, and Wednesday for lab class.
+This course is for students in the programs T141 and T147.
+This class is schedule for Monday for lecture class, and Wednesday for lab class.
