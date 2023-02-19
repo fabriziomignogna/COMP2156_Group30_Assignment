@@ -24,8 +24,7 @@ Notes:
 - Creation of repository
 - File 101366379_gb.txt added in Fabrizio personal branch.
 - File 101366379_devops.txt added in Fabrizio personal branch.
-<<<<<<< HEAD
-File 101366379_sdlc.txt added.
+- File 101366379_sdlc.txt added.
 - I merged my branch with Main branch after I was done. 
 ### I miss understood the Assignment Details:
 ### We all need to create 3 different files
@@ -52,5 +51,3 @@ File 101366379_sdlc.txt added.
 - Added file 101381487_sdlc.txt in Chijindu personal branch.
 ### I miss understood the Assignment Details:
 ### We all need to create 3 different files
-
->>>>>>> origin/101381487-Chijindu
