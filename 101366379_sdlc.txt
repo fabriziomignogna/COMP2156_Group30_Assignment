@@ -2,3 +2,4 @@ Fabrizio Mignogna #101366379
 Description: This file will contain details about important of learning DevOps engineer in software development cycle.
 
 The reason why is important is because we want faster development of new products and easier maintenance of existing deployments.
+Also, DevOps is important to reduce complexity.
