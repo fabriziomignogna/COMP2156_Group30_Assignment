@@ -1,0 +1,11 @@
+Fabrizio Mignogna #101366379
+Description: This file will contain details about important of learning DevOps engineer in software development cycle.
+
+The reason why is important is because we want faster development of new products and easier maintenance of existing deployments.
+Also, DevOps is important to reduce complexity.
+Teams who fully embrace DevOps practices work smarter and faster, and deliver better quality to their customers.
+DevOps bring value to end users quickly and transparently whilst retaining high quality.
+Agility, transparency, and high quality of software are the main benefits of DevOps.
+Personally, there is a website that helped me to understand DevOps way better. The link is in the following line:
+https://wishdesk.com/blog/why-devops-is-important
+A fact that may be important for some students is: The average devops engineer salary in Canada is $120,000 per year. (ca.talent.com)
