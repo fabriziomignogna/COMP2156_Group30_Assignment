@@ -4,3 +4,4 @@ Description: This file will contain information about George Brown College.
 George Brown College was founded in 1967.
 George Brown offers more than 170 full-time programs.
 There are 3 campuses of George Brown College.
+George Brown College website: https://www.georgebrown.ca/
