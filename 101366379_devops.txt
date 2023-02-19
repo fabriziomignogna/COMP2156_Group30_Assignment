@@ -11,3 +11,4 @@ Recommended textbooks and other teaching aids:
 Matthias)
     3. DevOps Automation Cookbook, By Michael Duffy, PACKT Publishing
     4. DevOps for Networking, By Steven Armstrong, PACKT Publishing.
+    This class is schedule for days Monday from 06pm to 07pm for lecture class, and Wednesday from 06pm to 08pm for lab class.
