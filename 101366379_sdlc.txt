@@ -5,3 +5,4 @@ The reason why is important is because we want faster development of new product
 Also, DevOps is important to reduce complexity.
 Teams who fully embrace DevOps practices work smarter and faster, and deliver better quality to their customers.
 DevOps bring value to end users quickly and transparently whilst retaining high quality.
+Agility, transparency, and high quality of software are the main benefits of DevOps.
