@@ -10,3 +10,4 @@ Agility, transparency, and high quality of software are the main benefits of Dev
 Personally, there is a website that helped me to understand DevOps way better. The link is in the following line:
 https://wishdesk.com/blog/why-devops-is-important
 A fact that may be important for some students is: The average devops engineer salary in Canada is $120,000 per year. (ca.talent.com)
+
