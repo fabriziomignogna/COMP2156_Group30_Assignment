@@ -2,3 +2,4 @@ Fabrizio Mignogna #101366379
 Description: This file will contain information about COMP2156 DevOps course.
 
 Course2156 name is: DevOps For System Administration.
+Professor's name: Pritesh Patel.
