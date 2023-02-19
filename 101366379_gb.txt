@@ -1,2 +1,4 @@
 Fabrizio Mignogna #101366379
 Description: This file will contain information about George Brown College.
+
+George Brown College was founded in 1967.
