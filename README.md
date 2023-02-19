@@ -11,7 +11,10 @@
     - 101381487_devops.txt
     - 101381487_sdlc.txt
 
-3) 
+3) Egor Istomin #101382753:
+- 101382753_gb.txt
+- 101382753_devops.txt
+- 101382753_sdlc.txt
 
 - All my files count with already 10 commits.
 - Screenshot of Bash commands added.
