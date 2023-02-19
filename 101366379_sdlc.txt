@@ -7,3 +7,4 @@ Teams who fully embrace DevOps practices work smarter and faster, and deliver be
 DevOps bring value to end users quickly and transparently whilst retaining high quality.
 Agility, transparency, and high quality of software are the main benefits of DevOps.
 Personally, there is a website that helped me to understand DevOps way better. The link is in the following line:
+https://wishdesk.com/blog/why-devops-is-important
