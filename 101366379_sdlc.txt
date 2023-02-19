@@ -3,3 +3,4 @@ Description: This file will contain details about important of learning DevOps e
 
 The reason why is important is because we want faster development of new products and easier maintenance of existing deployments.
 Also, DevOps is important to reduce complexity.
+Teams who fully embrace DevOps practices work smarter and faster, and deliver better quality to their customers.
