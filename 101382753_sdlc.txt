@@ -1,0 +1,23 @@
+A DevOps engineer is a trending and in-demand IT specialty that is at the intersection between development, testing, administration, and management. It arose as a result of the development of a methodology of the same name, which is aimed at the continuous execution and automation of key stages of software development. 
+
+DevOps help IT teams and companies speed up the release of products, minimize the number of errors and shortcomings, recover systems faster after failures, automate routine processes and tasks, as well as improve the quality of user support and service. DevOps is considered one of the most valuable and highly paid professions on the market.
+
+DevOps engineers reduce that complexity, closing the gap between actions needed to quickly change an application, and the tasks that maintain its reliability.
+Development teams and IT operations teams can have different skills and different goals. Developers want to introduce new features to an application, while operations teams want to preserve the stability of an application once it is released. 
+
+Some organizations may hire professionals to "perform DevOps" within their workflows, but because successful DevOps adoption depends on changes to culture and process, this may just deepen the disconnect between developers and operational teams.
+
+DevOps engineers need to know how to use the following types of tools:
+
+Version control
+Continuous Integration servers
+Configuration management
+Deployment automation
+Containers
+Infrastructure Orchestration
+Monitoring and analytics
+Testing and Cloud Quality tools
+Network protocols
+
+
+Corporations have a huge interest in DevOps, and it looks like the trend will remain the same in the foreseeable future. There is usually plenty of demand for jobs in the market, along with a drop in the average income. This makes an aspiring DevOps Engineer seek a vast range of skills.
